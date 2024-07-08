@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 Welcome to my GitHub profile! I'm excited to share my journey and projects with you.
 
 🔭 I’m currently working on AWS Projects.
@@ -12,4 +12,3 @@ Welcome to my GitHub profile! I'm excited to share my journey and projects with 
 😄 Pronouns: He/Him.
 ⚡ Fun fact: I have a keen interest in exploring new cloud technologies and love to experiment with different cloud platforms and services.
 Feel free to check out my repositories and connect with me. Let's build something great together!
--->
